@@ -62,3 +62,5 @@ Identified top categories with the highest success rates
 Revealed funding patterns over time and seasonal peaks
 
 Uncovered trends in backer engagement by category and funding goal range
+
+ ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Bank_loan_Analysis/blob/main/Bank%20loan%20report%20summary.png)
