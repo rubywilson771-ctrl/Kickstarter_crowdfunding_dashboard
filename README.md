@@ -63,4 +63,4 @@ Revealed funding patterns over time and seasonal peaks
 
 Uncovered trends in backer engagement by category and funding goal range
 
- ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Bank_loan_Analysis/blob/main/Bank%20loan%20report%20summary.png)
+ ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Kickstarter_crowdfunding_dashboard/blob/main/snapshot%20dashboard%201.png)
