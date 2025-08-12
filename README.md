@@ -64,3 +64,8 @@ Revealed funding patterns over time and seasonal peaks
 Uncovered trends in backer engagement by category and funding goal range
 
  ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/Kickstarter_crowdfunding_dashboard/blob/main/snapshot%20dashboard%201.png)
+
+
+  ![Dashboard Screenshot]( https://github.com/rubywilson771-ctrl/Kickstarter_crowdfunding_dashboard/blob/main/snapshot%20dashboard%202.png)
+
+    ![Dashboard Screenshot]( https://github.com/rubywilson771-ctrl/Kickstarter_crowdfunding_dashboard/blob/main/snapshot%20dashboard%202.png)
